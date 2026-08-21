@@ -133,7 +133,3 @@ Check that the sensor can see the player and that the right hand is being tracke
 ### Images are missing
 
 Run the sketch from the project folder and ensure the `data` directory is in the same folder as `FruitNinja.pde`. Asset names are case-sensitive in the code.
-
-## License
-
-No license is currently specified for this project.
